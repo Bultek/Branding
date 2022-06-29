@@ -1,4 +1,1 @@
-# Branding
-Bultek. Branding
-
-## This repository contains our branding (logo's etc.)
+# We have moved to a self-hosted [GitLab instance](https://bultek.synchron.com.ua/)
